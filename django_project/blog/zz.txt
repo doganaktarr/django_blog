@@ -1,0 +1,3 @@
+- {% url 'blog-home' %} ile url'i name sekinde belirtebilirsin
+
+- projede template ve static seklinde bol klasorleri
